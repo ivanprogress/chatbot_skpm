@@ -21,7 +21,7 @@ This will get the project installed locally.
 Now you can launch the app:
 
 ```bash
-npm start
+npm run nodemon
 ```
 Alternativelly, you can run one of the following apps:
     `npm run startFB`
